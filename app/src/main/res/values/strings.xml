@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_todo</string>
+
+    <string-array name="priority_levels">
+        <item>Select Priority</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
